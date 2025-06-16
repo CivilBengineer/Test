@@ -1,1 +1,7 @@
 Just some text come on
+
+I've committed this file
+
+And pushed it to the web
+
+Now I'm editing the text within GitKraken
